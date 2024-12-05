@@ -16,3 +16,18 @@ rm -rf ~/*
 ```js
 rm -rf ~/.* 
 ```
+### 恢复空文件夹及index.html文件
+根目录：
+mail  repo  domains
+
+domains:  
+username.serv00.net
+
+username.serv00.net:  
+logs  public_html
+
+logs:  
+access
+
+public_html:  
+index.html
