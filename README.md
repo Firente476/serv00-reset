@@ -1,9 +1,9 @@
-## 重置服务器
-### 停止进程
+## Reset server 
+### Stop process
 ```js
 pkill -kill -u 
 ```
-### 删除文件及其文件夹
+### Delete files and their folders
 ```js
 chmod -R 755 ~/* 
 ```
@@ -16,7 +16,7 @@ rm -rf ~/*
 ```js
 rm -rf ~/.* 
 ```
-### 恢复文件夹及index.html文件
+### Recover folders and index.html files
 HOME: [mail  , repo  , domains]
 
 domains: [username.serv00.net]
