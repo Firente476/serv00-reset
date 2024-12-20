@@ -1,7 +1,7 @@
 ## Reset server 
 ### Stop process
 ```js
-pkill -kill -u 
+pkill -kill -u username
 ```
 ### Delete files and their folders
 ```js
