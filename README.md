@@ -16,7 +16,7 @@ rm -rf ~/*
 ```js
 rm -rf ~/.* 
 ```
-### Recover folders and index.html files
+### Files and folders position reference
 HOME: [mail  , repo  , domains]
 
 domains: [username.serv00.net]
