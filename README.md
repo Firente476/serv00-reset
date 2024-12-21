@@ -16,13 +16,3 @@ rm -rf ~/*
 ```js
 rm -rf ~/.* 
 ```
-### Files and folders position reference
-HOME: [mail  , repo  , domains]
-
-domains: [username.serv00.net]
-
-username.serv00.net: [logs , public_html]
-
-logs: [access]
-
-public_html: [index.html]
