@@ -1,5 +1,5 @@
 ## Reset server 
-### Stop process
+### Stop process(add your own username)
 ```js
 pkill -kill -u 
 ```
